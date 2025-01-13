@@ -1,13 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\BaiTapLapTrinh\\Ky 7\\Game\\Project\\Steel_Tank_Final\\",
+  "WorkspaceRootPath": "D:\\Download\\Steel_Tank_Final\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7C066001-A000-AB8A-4FE9-CB943A17580A}|Assembly-CSharp.csproj|d:\\baitaplaptrinh\\ky 7\\game\\project\\steel_tank_final\\assets\\script\\menu\\upgrademenu\\button\\btn_backmainfromupgrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7C066001-A000-AB8A-4FE9-CB943A17580A}|Assembly-CSharp.csproj|d:\\download\\steel_tank_final\\assets\\script\\pupcopter\\pupcoptercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C066001-A000-AB8A-4FE9-CB943A17580A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\pupcopter\\pupcoptercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C066001-A000-AB8A-4FE9-CB943A17580A}|Assembly-CSharp.csproj|d:\\download\\steel_tank_final\\assets\\script\\camera\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C066001-A000-AB8A-4FE9-CB943A17580A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\camera\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C066001-A000-AB8A-4FE9-CB943A17580A}|Assembly-CSharp.csproj|d:\\download\\steel_tank_final\\assets\\script\\game control\\level control\\next_level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C066001-A000-AB8A-4FE9-CB943A17580A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\game control\\level control\\next_level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C066001-A000-AB8A-4FE9-CB943A17580A}|Assembly-CSharp.csproj|d:\\download\\steel_tank_final\\assets\\script\\tank\\tankcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C066001-A000-AB8A-4FE9-CB943A17580A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\tank\\tankcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C066001-A000-AB8A-4FE9-CB943A17580A}|Assembly-CSharp.csproj|D:\\Download\\Steel_Tank_Final\\assets\\script\\tank\\guncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C066001-A000-AB8A-4FE9-CB943A17580A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\tank\\guncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C066001-A000-AB8A-4FE9-CB943A17580A}|Assembly-CSharp.csproj|D:\\Download\\Steel_Tank_Final\\assets\\script\\menu\\mainmenu\\mainmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C066001-A000-AB8A-4FE9-CB943A17580A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\menu\\mainmenu\\mainmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C066001-A000-AB8A-4FE9-CB943A17580A}|Assembly-CSharp.csproj|D:\\Download\\Steel_Tank_Final\\assets\\script\\menu\\upgrademenu\\button\\btn_backmainfromupgrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C066001-A000-AB8A-4FE9-CB943A17580A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\menu\\upgrademenu\\button\\btn_backmainfromupgrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C066001-A000-AB8A-4FE9-CB943A17580A}|Assembly-CSharp.csproj|D:\\BaiTapLapTrinh\\Ky 7\\Game\\Project\\Steel_Tank_Final\\assets\\script\\menu\\optionmenu\\btn_done.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7C066001-A000-AB8A-4FE9-CB943A17580A}|Assembly-CSharp.csproj|D:\\Download\\Steel_Tank_Final\\assets\\script\\menu\\optionmenu\\btn_done.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C066001-A000-AB8A-4FE9-CB943A17580A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\menu\\optionmenu\\btn_done.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -23,23 +47,98 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BTN_BackMainFromUpgrade.cs",
-              "DocumentMoniker": "D:\\BaiTapLapTrinh\\Ky 7\\Game\\Project\\Steel_Tank_Final\\Assets\\Script\\Menu\\UpgradeMenu\\Button\\BTN_BackMainFromUpgrade.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Menu\\UpgradeMenu\\Button\\BTN_BackMainFromUpgrade.cs",
-              "ToolTip": "D:\\BaiTapLapTrinh\\Ky 7\\Game\\Project\\Steel_Tank_Final\\Assets\\Script\\Menu\\UpgradeMenu\\Button\\BTN_BackMainFromUpgrade.cs",
-              "RelativeToolTip": "Assets\\Script\\Menu\\UpgradeMenu\\Button\\BTN_BackMainFromUpgrade.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "PupcopterController.cs",
+              "DocumentMoniker": "D:\\Download\\Steel_Tank_Final\\Assets\\Script\\Pupcopter\\PupcopterController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Pupcopter\\PupcopterController.cs",
+              "ToolTip": "D:\\Download\\Steel_Tank_Final\\Assets\\Script\\Pupcopter\\PupcopterController.cs",
+              "RelativeToolTip": "Assets\\Script\\Pupcopter\\PupcopterController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-29T08:29:39.284Z",
+              "WhenOpened": "2025-01-11T09:54:43.607Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "D:\\Download\\Steel_Tank_Final\\Assets\\Script\\Camera\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Camera\\CameraController.cs",
+              "ToolTip": "D:\\Download\\Steel_Tank_Final\\Assets\\Script\\Camera\\CameraController.cs",
+              "RelativeToolTip": "Assets\\Script\\Camera\\CameraController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T09:08:54.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Next_Level.cs",
+              "DocumentMoniker": "D:\\Download\\Steel_Tank_Final\\Assets\\Script\\Game Control\\Level Control\\Next_Level.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Game Control\\Level Control\\Next_Level.cs",
+              "ToolTip": "D:\\Download\\Steel_Tank_Final\\Assets\\Script\\Game Control\\Level Control\\Next_Level.cs",
+              "RelativeToolTip": "Assets\\Script\\Game Control\\Level Control\\Next_Level.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T09:08:48.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GunController.cs",
+              "DocumentMoniker": "D:\\Download\\Steel_Tank_Final\\Assets\\Script\\Tank\\GunController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Tank\\GunController.cs",
+              "ToolTip": "D:\\Download\\Steel_Tank_Final\\Assets\\Script\\Tank\\GunController.cs",
+              "RelativeToolTip": "Assets\\Script\\Tank\\GunController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T09:39:55.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TankController.cs",
+              "DocumentMoniker": "D:\\Download\\Steel_Tank_Final\\Assets\\Script\\Tank\\TankController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Tank\\TankController.cs",
+              "ToolTip": "D:\\Download\\Steel_Tank_Final\\Assets\\Script\\Tank\\TankController.cs",
+              "RelativeToolTip": "Assets\\Script\\Tank\\TankController.cs",
+              "ViewState": "AgIAAOsBAAAAAAAAAIBJwAkCAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T06:38:28.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainMenuController.cs",
+              "DocumentMoniker": "D:\\Download\\Steel_Tank_Final\\Assets\\Script\\Menu\\MainMenu\\MainMenuController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Menu\\MainMenu\\MainMenuController.cs",
+              "ToolTip": "D:\\Download\\Steel_Tank_Final\\Assets\\Script\\Menu\\MainMenu\\MainMenuController.cs",
+              "RelativeToolTip": "Assets\\Script\\Menu\\MainMenu\\MainMenuController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA7wBwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T08:37:40.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BTN_BackMainFromUpgrade.cs",
+              "DocumentMoniker": "D:\\Download\\Steel_Tank_Final\\Assets\\Script\\Menu\\UpgradeMenu\\Button\\BTN_BackMainFromUpgrade.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Menu\\UpgradeMenu\\Button\\BTN_BackMainFromUpgrade.cs",
+              "ToolTip": "D:\\Download\\Steel_Tank_Final\\Assets\\Script\\Menu\\UpgradeMenu\\Button\\BTN_BackMainFromUpgrade.cs",
+              "RelativeToolTip": "Assets\\Script\\Menu\\UpgradeMenu\\Button\\BTN_BackMainFromUpgrade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T08:29:39.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "BTN_Done.cs",
-              "DocumentMoniker": "D:\\BaiTapLapTrinh\\Ky 7\\Game\\Project\\Steel_Tank_Final\\Assets\\Script\\Menu\\OptionMenu\\BTN_Done.cs",
+              "DocumentMoniker": "D:\\Download\\Steel_Tank_Final\\Assets\\Script\\Menu\\OptionMenu\\BTN_Done.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Menu\\OptionMenu\\BTN_Done.cs",
-              "ToolTip": "D:\\BaiTapLapTrinh\\Ky 7\\Game\\Project\\Steel_Tank_Final\\Assets\\Script\\Menu\\OptionMenu\\BTN_Done.cs",
+              "ToolTip": "D:\\Download\\Steel_Tank_Final\\Assets\\Script\\Menu\\OptionMenu\\BTN_Done.cs",
               "RelativeToolTip": "Assets\\Script\\Menu\\OptionMenu\\BTN_Done.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
